@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QFXHsORo6etx8uvOBtBYpqPTnHOnxzkTcMk0jhgbmaU=",
+  "Source": "Controlbox.Api",
+  "BasePath": "_content/Controlbox.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

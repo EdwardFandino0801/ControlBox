@@ -1,0 +1,38 @@
+:root {
+    --color-primary: #4F46E5;
+    --color-secondary: #F59E0B;
+    --color-background: #F9FAFB;
+    --color-surface: #FFFFFF;
+    --color-text-primary: #1F2937;
+    --color-text-secondary: #6B7280;
+    --radius: 8px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+}
+
+button {
+    background-color: var(--color-primary);
+    color: white;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+    button:hover {
+        background-color: #4338CA;
+    }
+
+input {
+    padding: 0.6rem;
+    border-radius: var(--radius);
+    border: 1px solid #D1D5DB;
+    font-size: 1rem;
+}
+

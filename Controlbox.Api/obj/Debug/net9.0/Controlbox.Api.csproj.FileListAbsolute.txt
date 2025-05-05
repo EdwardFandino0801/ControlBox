@@ -1,0 +1,7 @@
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.csproj.AssemblyReference.cache
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.AssemblyInfoInputs.cache
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.AssemblyInfo.cs
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.csproj.CoreCompileInputs.cache
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\JS\Controlbox.Api\obj\Debug\net9.0\Controlbox.Api.MvcApplicationPartsAssemblyInfo.cache
